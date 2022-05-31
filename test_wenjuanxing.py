@@ -30,7 +30,7 @@ class TestDemo:
     def setup(self):
         self.ddp = imnu(self.driver, self.url)
 
-    def test_shop(self):
+    def test_imnu(self):
         name = ""
         school = "计算机科学与技术学院"
         num = ""
